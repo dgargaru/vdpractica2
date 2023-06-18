@@ -14,7 +14,8 @@ El principal objetivo de este proyecto se centra en la posibilidad de poder saca
 
 ### 3.1 Conjunto de datos
 
-La fase de obtención de datos se centra en la adquisición proveniente de la AEMET y en concreto en distintos conjuntos de datos en ficheros en formato csv de los años desde el 2000 hasta el 2022. Dentro de cada fichero existen una amplia variedad de métricas de entre las cuales se han seleccionado las siguientes: 
+La fase de obtención de datos se centra en la adquisición proveniente de la AEMET y en concreto en distintos conjuntos de datos en ficheros en formato csv de los años desde el 2000 hasta el 2022. 
+Dentro de cada fichero existen una amplia variedad de métricas de entre las cuales se han seleccionado las siguientes: 
 
   - ta_max:    Temperatura máxima absoluta del mes/año y fecha
   - ta_min:    Temperatura mínima absoluta del mes/año y fecha
@@ -26,7 +27,7 @@ La fase de obtención de datos se centra en la adquisición proveniente de la AE
 
 ### 3.2 Herramientas
 
-Para obtener el proyecto de visualización final se ha usado la aplicación online y gratuita llamada Fluorish que con el plan gratuito y únicamente darse de alta nos permite la elaboración y publicación de múltiples tipos de visualicaciones e incluso historias de visualizaciones. El único inconveniente que se presenta es la imposiblidad de crear proyectos interactivos de múltiples visualizaciones unidas.
+Para obtener el proyecto de visualización final se ha usado la aplicación online  llamada Fluorish que con el plan gratuito y únicamente darse de alta nos permite la elaboración y publicación de múltiples tipos de visualicaciones e incluso historias de visualizaciones. El único inconveniente que se presenta es la imposiblidad de crear proyectos interactivos de múltiples visualizaciones unidas.
 
 El complemente perfecto ha sido la creación de una página web en formato HTML capaz de fusionar las técnicas de visualización creadas en Fluorish con la capacidad de añadir interactividad.
 
