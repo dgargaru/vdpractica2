@@ -1,6 +1,8 @@
 # Proyecto para análisis de datos meteorológicos en España
 ## 1. Introducción
-Con el fin de elaborar la última práctica de la asignatura de visualización de datos del Máster de ciencias de datos se ha elaborado un proyecto para el análisis del posible cambio climático mediante distintas técnicas de visualización. Gracias a las representaciones gráficas el ser humano es capaz de comunicar sencilla y efizcamente una cantidad de datos interpretables y susceptibles de convertirse en información. Gracias a la conjunción de estas técnicas en un cuadro de mandos o Dashboard se puede obtener información de los procesos previos de obtención y tratamiento de datos provenientes de distintas fuentes.
+Con el fin de elaborar la última práctica de la asignatura de visualización de datos del Máster de ciencias de datos se ha elaborado un proyecto para el análisis del posible cambio climático mediante distintas técnicas de visualización. 
+Por medio de las representaciones gráficas el ser humano es capaz de comunicar sencilla y efizcamente una cantidad de datos interpretables y susceptibles de convertirse en información.
+Gracias a la conjunción de estas técnicas en un cuadro de mandos o Dashboard se puede obtener información de los procesos previos de obtención y tratamiento de datos provenientes de distintas fuentes.
 
 ## 2. Objetivo
 
@@ -13,8 +15,9 @@ El principal objetivo de este proyecto se centra en la posibilidad de poder saca
 ### 3.1 Conjunto de datos
 
 La fase de obtención de datos se centra en la adquisición proveniente de la AEMET y en concreto en distintos conjuntos de datos en ficheros en formato csv de los años desde el 2000 hasta el 2022. Dentro de cada fichero existen una amplia variedad de métricas de entre las cuales se han seleccionado las siguientes: 
+
   - ta_max:    Temperatura máxima absoluta del mes/año y fecha
-	- ta_min:    Temperatura mínima absoluta del mes/año y fecha
+  - ta_min:    Temperatura mínima absoluta del mes/año y fecha
   - tm_mes:    Temperatura media mensual/anual
   - nt_30:     Nº de días de temperatura máxima mayor o igual que 30 °C
   - n_llu:     Nº de días de lluvia en el mes/año
